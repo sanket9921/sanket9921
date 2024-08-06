@@ -16,7 +16,7 @@
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-# Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Akash Kshirasagr - Your Versatile Developer and Data Scientist! 🧑‍💻🚀
+# Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Sanket Gaikwad - Your Versatile Developer and Data Scientist! 🧑‍💻🚀
 <img src="https://github.com/somanathkshirsagar/somanathkshirsagar/blob/main/assets/icons/NvL.gif" width="880" height="400" alt="Alt Text">
 Welcome to my GitHub profile! Here, you'll find an overview of my skills, expertise, and a glimpse into my diverse world of technology. Whether it's Java development, software engineering, or data science, I'm here to create innovative solutions and make a positive impact. Feel free to explore and reach out to me if you have any questions or need assistance with your projects. Let's embark on a journey of coding excellence! 💡
 
