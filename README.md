@@ -75,9 +75,36 @@ Throughout my journey, I have undertaken various projects that showcase my skill
 
 - Collaborated with cross-functional teams to develop and deploy data-driven solutions that improved business processes and decision-making.
 
-## Professional Experience and Internship 💼
+## Experience  💼
 
-- Internship: I had the privilege of completing a 6-month internship at iNeuron.ai, where I worked on cutting-edge projects and gained hands-on experience in various aspects of data science and machine learning. This opportunity allowed me to apply my skills in a real-world setting and collaborate with industry professionals.
+- Freelance Web and Software Developer
+India 
+January 2020 – Present
+
+** Key Responsibilities:
+
+- Developed and deployed responsive web applications using modern technologies like React, Next.js, and Node.js.
+- Built cross-platform mobile applications for Android and iOS using Flutter and React Native.
+- Designed and implemented user-friendly interfaces, focusing on UI/UX design principles to enhance user experience.
+- Delivered end-to-end software solutions, including backend development, API integrations, and database management.
+- Worked closely with clients to understand their needs, providing customized solutions that meet project requirements and deadlines.
+- Managed multiple projects simultaneously, ensuring timely delivery and client satisfaction.
+
+
+** Notable Projects:
+
+** E-commerce Website: 
+Developed a fully-functional online store with integrated payment systems and a user-friendly interface.
+Mobile Health App: Created a cross-platform app that tracks user health metrics, provides personalized recommendations, and integrates with wearable devices.
+Chatbot Service: Designed and developed a chatbot for a client’s customer service, improving response times and customer engagement.
+Skills:
+
+** Web Development: 
+React, Next.js, Node.js, HTML, CSS, JavaScript
+Mobile Development: Flutter, React Native, Android, iOS
+UI/UX Design: Figma, Adobe XD
+Software Development: Python, Java, C++
+Database Management: MySQL, MongoDB
 
 ## Let's Connect! 🤝
 
