@@ -16,8 +16,6 @@
   <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 </p>
-[![Watch the video](https://www.youtube.com/watch?v=Nc8ve3HjriY)](https://www.youtube.com/watch?v=Nc8ve3HjriY)
-
 # Hi there! 👋 I'm Sanket Gaikwad - Your Versatile Developer! 🧑‍💻🚀
 
 Welcome to my GitHub profile! I am passionate about creating innovative solutions and making a positive impact through technology. Whether it's web development, mobile apps, or UI/UX design, I'm here to build and collaborate. Feel free to explore my projects and reach out if you have any questions or ideas. Let's code and innovate together! 💡
