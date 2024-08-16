@@ -21,7 +21,7 @@
 Welcome to my GitHub profile! Here, you'll find an overview of my skills, expertise, and a glimpse into my diverse world of technology. Whether it's Java development, software engineering, or data science, I'm here to create innovative solutions and make a positive impact. Feel free to explore and reach out to me if you have any questions or need assistance with your projects. Let's embark on a journey of coding excellence! 💡
 
 ## About Me ℹ️
-I'm Akash Kshirsagar, a versatile developer and data scientist with a strong educational background. I completed my Bachelor's degree in Computer Application (BCA) from Vidya Pratishthan College, Baramati, and further expanded my knowledge by pursuing a Master's degree in Computer Application from JSPM Rajarshi Shahu College Of Engineering. With a solid foundation in computer science, I'm equipped to tackle complex challenges and build robust solutions. Let's code our way to success! 💪
+I'm Sanket Gaikwad, a versatile developer and data scientist with a strong educational background. I completed my Bachelor's degree in Computer Application (BCA) from Vidya Pratishthan College, Baramati, and further expanded my knowledge by pursuing a Master's degree in Computer Application from JSPM Rajarshi Shahu College Of Engineering. With a solid foundation in computer science, I'm equipped to tackle complex challenges and build robust solutions. Let's code our way to success! 💪
 
 ## Skills and Expertise 🤓
 
@@ -83,9 +83,8 @@ Throughout my journey, I have undertaken various projects that showcase my skill
 
 I'm always eager to collaborate, learn, and share my expertise with fellow technologists. Whether you have questions, need assistance with your projects, or simply want to connect, feel free to reach out to me using the following channels:
 
-- Email: 📧 [aakashkshirsagar2000@gmail.com](aakashkshirsagar2000@gmail.com)
-- LinkedIn: 🔗 [Akash Kshirasagr](https://www.linkedin.com/in/akash-kshirsagar-626a9222a/)
-- Twitter: 🐦 [@AkashDev](https://twitter.com/AkashDev)
+- Email: 📧 [gaikwadsanketn@gmail.com](gaikwadsanketn@gmail.com)
+- LinkedIn: 🔗 [Sanket Gaikwad](https://www.linkedin.com/in/sanket9921)
 
 Let's innovate, build, and shape the future of technology together! 🚀💻
 
