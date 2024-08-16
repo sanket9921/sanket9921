@@ -26,37 +26,6 @@ Welcome to my GitHub profile! I am passionate about creating innovative solution
 
 I am Sanket Gaikwad, a computer engineering graduate with a postgraduate diploma in Advanced Computing. My expertise spans web application development, software development, Android/iOS app development, and UI/UX design. I enjoy exploring new technologies, coding, and playing cricket in my free time. Let's create something amazing together! 💪
 
-## Skills and Expertise 🤓
-
-Here are some of the key skills and tools I work with:
-
-- **Web Development:** React, Next.js, Angular, Vue.js
-- **Mobile Development:** Flutter, React Native, Android, iOS
-- **UI/UX Design:** Figma, Adobe XD
-- **Software Development:** Java, Python, C++, Node.js
-- **Database Management:** MySQL, MongoDB
-- **Other Tools:** Git, Docker, Postman, AWS, Power BI
-
-## Notable Projects 🚀
-
-- **E-commerce Website:** Developed a fully-functional online store with integrated payment systems and a user-friendly interface.
-- **Mobile Health App:** Created a cross-platform app that tracks user health metrics, provides personalized recommendations, and integrates with wearable devices.
-- **Chatbot Service:** Designed and developed a chatbot for a client’s customer service, improving response times and customer engagement.
-
-## Experience 💼
-
-**Freelance Web and Software Developer**  
-India | January 2020 – Present
-
-**Key Responsibilities:**
-
-- Developed and deployed responsive web applications using modern technologies like React, Next.js, and Node.js.
-- Built cross-platform mobile applications for Android and iOS using Flutter and React Native.
-- Designed and implemented user-friendly interfaces, focusing on UI/UX design principles to enhance user experience.
-- Delivered end-to-end software solutions, including backend development, API integrations, and database management.
-- Worked closely with clients to understand their needs, providing customized solutions that meet project requirements and deadlines.
-- Managed multiple projects simultaneously, ensuring timely delivery and client satisfaction.
-
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Full-Stack Development</h2>
 
 - <b>Languages</b> : Golang, Java, Python, JavaScript, TypeScript
@@ -138,6 +107,27 @@ India | January 2020 – Present
 <!-- ![](https://komarev.com/ghpvc/?username=danieleverest) -->
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
  <img alt="Profile followers" src="https://img.shields.io/github/followers/danieleverest"> -->
+
+## Notable Projects 🚀
+
+- **E-commerce Website:** Developed a fully-functional online store with integrated payment systems and a user-friendly interface.
+- **Mobile Health App:** Created a cross-platform app that tracks user health metrics, provides personalized recommendations, and integrates with wearable devices.
+- **Chatbot Service:** Designed and developed a chatbot for a client’s customer service, improving response times and customer engagement.
+
+## Experience 💼
+
+**Freelance Web and Software Developer**  
+India | January 2020 – Present
+
+**Key Responsibilities:**
+
+- Developed and deployed responsive web applications using modern technologies like React, Next.js, and Node.js.
+- Built cross-platform mobile applications for Android and iOS using Flutter and React Native.
+- Designed and implemented user-friendly interfaces, focusing on UI/UX design principles to enhance user experience.
+- Delivered end-to-end software solutions, including backend development, API integrations, and database management.
+- Worked closely with clients to understand their needs, providing customized solutions that meet project requirements and deadlines.
+- Managed multiple projects simultaneously, ensuring timely delivery and client satisfaction.
+
 
 ## Let's Connect! 🤝
 
