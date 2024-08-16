@@ -1,21 +1,3 @@
-<p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C%20welcome%20to%20my%20GitHub%20profile!%20I%20am%20a%20full-stack%20developer;&font=Rancho&center=false&width=404&height=50&color=#B282E9&vCenter=false&size=100"></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-</p>
 # Hi there! 👋 I'm Sanket Gaikwad - Your Versatile Developer! 🧑‍💻🚀
 
 Welcome to my GitHub profile! I am passionate about creating innovative solutions and making a positive impact through technology. Whether it's web development, mobile apps, or UI/UX design, I'm here to build and collaborate. Feel free to explore my projects and reach out if you have any questions or ideas. Let's code and innovate together! 💡
@@ -26,14 +8,24 @@ I am Sanket Gaikwad, a computer engineering graduate with a postgraduate diploma
 
 ## Skills and Expertise 🤓
 
-Here are some of the key skills and tools I work with:
+Here's a list of my skills and areas of expertise:
 
-- **Web Development:** React, Next.js, Angular, Vue.js
-- **Mobile Development:** Flutter, React Native, Android, iOS
-- **UI/UX Design:** Figma, Adobe XD
-- **Software Development:** Java, Python, C++, Node.js
-- **Database Management:** MySQL, MongoDB
-- **Other Tools:** Git, Docker, Postman, AWS, Power BI
+- **Java** ☕️: Extensive experience in Java development, from enterprise applications to efficient algorithms.
+- **Python** 🐍: Proficient in data analysis, machine learning, and web development with libraries like NumPy, Pandas, and Scikit-learn.
+- **C++** 🖥️: Strong command over high-performance algorithms and system-level programming.
+- **C** 📡: Skilled in system programming and embedded systems.
+- **Go** 🐹: Proficient in Go for modern, high-performance software systems.
+- **Data Structures and Algorithms** 📚: Expertise in developing efficient, optimized code for complex problems.
+- **Linux** 🐧: Experienced in command-line interface, shell scripting, and system administration.
+- **Machine Learning** 🤖: Solid foundation in regression, classification, clustering, and ensemble methods.
+- **Deep Learning** 🧠: Specialization in building and training neural networks using TensorFlow and PyTorch.
+- **Natural Language Processing (NLP)** 🗣️: Expertise in text classification, sentiment analysis, and language generation.
+- **SQL and Database Management** 📊: Proficient in complex SQL queries and database optimization.
+- **Power BI** 📈: Mastery in creating interactive dashboards and reports for data-driven decisions.
+- **Docker** 🐳: Knowledgeable in containerization for consistent deployment and scalability.
+- **API Development** 🌐: Skilled in developing RESTful APIs and using frameworks like FastAPI.
+- **Postman** 📮: Proficient in API testing and development with Postman.
+- **AWS** ☁️: Actively learning and leveraging AWS services for cloud solutions.
 
 ## Notable Projects 🚀
 
@@ -67,3 +59,9 @@ Let's innovate, build, and shape the future of technology together! 🚀💻
 ---
 
 *"Success is not the key to happiness. Happiness is the key to success. If you love what you do, you will be successful."* - Albert Schweitzer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYmYdA2zwTi1ao/giphy.gif" width="200" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/l0NwT3P0Pp1fzQKb6/giphy.gif" width="200" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/3o7buymw5s2e9PPd6w/giphy.gif" width="200" alt="Coding Animation">
+</p>
