@@ -21,7 +21,7 @@
 Welcome to my GitHub profile! Here, you'll find an overview of my skills, expertise, and a glimpse into my diverse world of technology. Whether it's Java development, software engineering, or data science, I'm here to create innovative solutions and make a positive impact. Feel free to explore and reach out to me if you have any questions or need assistance with your projects. Let's embark on a journey of coding excellence! 💡
 
 ## About Me ℹ️
-I'm Sanket Gaikwad, a versatile developer and data scientist with a strong educational background. I completed my Bachelor's degree in Computer Application (BCA) from Vidya Pratishthan College, Baramati, and further expanded my knowledge by pursuing a Master's degree in Computer Application from JSPM Rajarshi Shahu College Of Engineering. With a solid foundation in computer science, I'm equipped to tackle complex challenges and build robust solutions. Let's code our way to success! 💪
+I am Sanket Gaikwad. I hold a degree in Computer Engineering and a postgraduate diploma in Advanced Computing. My technical skills include web development, AI and machine learning, and data analytics. I have worked on various projects, including chatbot services, eCommerce platforms, and AI-driven applications. In addition to my professional interests, I enjoy exploring new technologies, coding, and playing cricket in my free time Let's code our way to success! 💪
 
 ## Skills and Expertise 🤓
 
