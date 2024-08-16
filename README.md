@@ -81,7 +81,7 @@ Throughout my journey, I have undertaken various projects that showcase my skill
 India 
 January 2020 – Present
 
-** Key Responsibilities:
+**Key Responsibilities:
 
 - Developed and deployed responsive web applications using modern technologies like React, Next.js, and Node.js.
 - Built cross-platform mobile applications for Android and iOS using Flutter and React Native.
@@ -93,13 +93,13 @@ January 2020 – Present
 
 ** Notable Projects:
 
-** E-commerce Website: 
+**E-commerce Website: 
 Developed a fully-functional online store with integrated payment systems and a user-friendly interface.
 Mobile Health App: Created a cross-platform app that tracks user health metrics, provides personalized recommendations, and integrates with wearable devices.
 Chatbot Service: Designed and developed a chatbot for a client’s customer service, improving response times and customer engagement.
 Skills:
 
-** Web Development: 
+**Web Development: 
 React, Next.js, Node.js, HTML, CSS, JavaScript
 Mobile Development: Flutter, React Native, Android, iOS
 UI/UX Design: Figma, Adobe XD
