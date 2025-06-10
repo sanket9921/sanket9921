@@ -52,9 +52,9 @@
 
 ### 📫 Get in Touch
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Portfolio:** [Your Portfolio Link](#)
+- **Email:** gaikwadsanketn@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sanket9921/
+- **Portfolio:** Working on it (comming soon)
 
 ---
 
